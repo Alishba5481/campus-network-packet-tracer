@@ -10,7 +10,7 @@ A campus network simulated in Cisco Packet Tracer, connecting 7 departments thro
 - GRE tunnel between the lab and physics routers
 
 ## Topology
--topology.png
+-Bus topology
 
 ## Files
 - `campus-network.pkt`: Packet Tracer project (open with Cisco Packet Tracer)
